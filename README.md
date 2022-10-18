@@ -1,7 +1,11 @@
 # データ解析特論2022
 中野直人 明治大学大学院先端数理科学研究科
 
-標記講義の notebook を公開しています．この repo にある notebook ファイルの実行には binder を使う事ができます．以下の binder バッジからアクセスしてください．  
+標記講義の notebook を公開しています．ファイル名に sample と付けてあるのは事前配布の notebook です．forme と付けてあるのが講義中に中野がライブコーディングした notebook です．
+
+
+---
+この repo にある notebook ファイルの実行には binder を使う事ができます．以下の binder バッジからアクセスしてください．  
 [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNKN/ADCA2022/master)
 
 ---
