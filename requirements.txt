@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+sklearn
+scipy
+ipywidgets
+mpl_toolkits
+
+
+
+
