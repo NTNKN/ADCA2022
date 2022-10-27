@@ -1,8 +1,6 @@
 # データ解析特論2022
-# Advanced Course in Data Analysis 2022
-
-中野直人 明治大学大学院先端数理科学研究科
-
+Advanced Course in Data Analysis 2022  
+中野直人 明治大学大学院先端数理科学研究科  
 Naoto Nakano, Graduate School of Advanced Mathematical Sciences
 
 ---
