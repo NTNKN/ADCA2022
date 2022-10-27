@@ -3,6 +3,7 @@
 
 中野直人 明治大学大学院先端数理科学研究科
 Naoto Nakano, Graduate School of Advanced Mathematical Sciences
+
 ---
 
 標記講義の notebook を公開しています．  
